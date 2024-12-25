@@ -33,7 +33,7 @@ def main():
         --accent-color-1: #8B0000;
         --accent-color-2: #4B0082;
         --text-color: #333333;
-        --background-color: #f0f8ff;
+        --background-color: #f0f918ff;
     }
 
     html, body, [class*="css"] {
