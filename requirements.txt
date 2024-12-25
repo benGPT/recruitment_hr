@@ -1,4 +1,5 @@
-﻿sqlite3
+streamlit
+sqlite3
 json
 bcrypt
 contextlib
